@@ -1,0 +1,11 @@
+NAME="Geometry Dash OS"
+PRETTY_NAME="Geometry Dash OS"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://gdos.buttplugstudios.xyz/"
+DOCUMENTATION_URL="https://wiki.gdos.buttplugstudios.xyz/"
+SUPPORT_URL="https://gdos.buttplugstudios.xyz/"
+BUG_REPORT_URL="https://github.com/Geometry-Dash-OS/Geometry-Dash-OS/issues"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=archlinux-logo
