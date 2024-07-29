@@ -1,7 +1,3 @@
 Welcome to Geometry Dash OS.
-
-To install Geometry Dash OS run the following commands:
-
-git clone https://github.com/Geometry-Dash-OS/Geometry-Dash-OS-Archinstall
-cd Geometry-Dash-OS-Archinstall
-python -m archinstall
+Run the command "archinstall" to install Geometry Dash OS.
+Run the command "archinstall" to install Geometry Dash OS.
